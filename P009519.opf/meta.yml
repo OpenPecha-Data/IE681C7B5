@@ -4,4 +4,54 @@ source_metadata:
   id: bdr:W28942
   title: གསུང་འབུམ། ཤེས་བྱ་ཀུན་རིག
   author: ''
-  volumes: {}
+  volumes:
+    f74e71207e23486ebdca203a56c97ca8:
+      image_group_id: I4878
+      title: ''
+      volume_number: 1
+      total_pages: 846
+    fc92c5c4928743cd86782c69c162938f:
+      image_group_id: I4879
+      title: ''
+      volume_number: 2
+      total_pages: 984
+    7633a10b5e5d458696eec2b279a4d97f:
+      image_group_id: I4880
+      title: ''
+      volume_number: 3
+      total_pages: 774
+    10b0e495de4347f9ac7c5692be8e186d:
+      image_group_id: I4881
+      title: ''
+      volume_number: 4
+      total_pages: 888
+    82d51d1ec774416688066e2f9142833a:
+      image_group_id: I4882
+      title: ''
+      volume_number: 5
+      total_pages: 912
+    764ac0c9a3514110aa3f463ccac32397:
+      image_group_id: I4883
+      title: ''
+      volume_number: 6
+      total_pages: 936
+    f16ab78429df49a09d8e9acba4dad5fd:
+      image_group_id: I4884
+      title: ''
+      volume_number: 7
+      total_pages: 854
+    506e035bcc774ff1a4d4d3a27a6e105e:
+      image_group_id: I4885
+      title: ''
+      volume_number: 8
+      total_pages: 679
+    839d4173c3df45da83f9179791233439:
+      image_group_id: I4886
+      title: ''
+      volume_number: 9
+      total_pages: 840
+    2d27f2335352411bafb1073976bb66d4:
+      image_group_id: I4887
+      title: ''
+      volume_number: 10
+      total_pages: 732
